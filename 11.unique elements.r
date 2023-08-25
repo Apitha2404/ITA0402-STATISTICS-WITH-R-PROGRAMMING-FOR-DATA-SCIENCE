@@ -1,0 +1,10 @@
+str1 = " The dog is lazy these days"
+print("Original vector(string)")
+print(str1)
+print("Unique elements of the said vector:")
+print(unique(tolower(str1)))
+nums = c(1, 2, 9, 5, 8, 6, 7, 9)
+print("Original vector(number)")
+print(nums)
+print("Unique elements of the said vector:")
+print(unique(nums))
